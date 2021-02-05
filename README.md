@@ -15,15 +15,28 @@ If you're a recruiter or interviewer, please use my formal contact details at th
 
 ## Projects I've worked on
 
-### Jaxbot
+<h3 align="center">Jaxbot</h3>
+<p align="center">
+   <img width="128" src="Spinner-Slow-Small.gif">
+</p>
+
 JaxBot is a discord bot purpose-built for a gaming community I manage.
 
 It can record users, warnings given by staff, applications, and provide detailed logs on its actions. It’s powered by Node.js and uses AWS RDS for data storage.
 
 It also has a HTTPS server, with a signed SSL certificate, which is used as REST API for a work-in-progress web application that will be available to our users and staff (staff having options to make actions from the web app, rather than in discord).
 
+You can find more info, and check him out yourself, [here](https://www.tophat-gaming.co.uk/jax).
+
+_NOTE: A Discord account and being a member of the TopHat Community Server is necessary for access to the web app._
+
 ### Plutonium Game Launcher UI
-The UI for the Plutonium Game Launcher is a very basic HTML website, being rendered by (a _very_ old version of) Ultralight. Due to Ultralight having worse support than Internet Explorer (not a joke, we ran tests, it _sucked_) I had difficulties making something that looked nice while also working around the numerous limitations. However, with time and perseverance, we got it finished, and to this day, the UI is still used.
+The UI for the [Plutonium](https://plutonium.pw/) Game Launcher is a very basic HTML website, being rendered by (a _very_ old version of) Ultralight. Due to Ultralight having worse support than Internet Explorer (not a joke, we ran tests, it _sucked_) I had difficulties making something that looked nice while also working around the numerous limitations. However, with time and perseverance, we got it finished, and to this day, the UI is still used.
+
+<p align="center">
+   <img width="80%" src="https://lh3.googleusercontent.com/C4BAbT9t5gFVUqRzxRREZeZiPrKQwKztn5UAyG0w3cG6DoZTV7Oyv39Ow-uzNAQbdX-06QWjcmtA9oJEhi9fP1xJoX0dPy0AsDTW7Nmo4wFrCArjBKrj1b8Vh7FgHy2frzup1n1P">
+</p>
+
 
 ## Contact Me
 For quick informal chats, I recommend adding me on discord: **WhiskeeDev#0001**
