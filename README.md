@@ -4,7 +4,7 @@
 I'm Whiskee or, if you're here from a more profressional background, Liam.
 I started studying Development during my free-time when I was ~12, first learning LUA to create scripts for [ComputerCraft](https://github.com/dan200/ComputerCraft) and Addons for Garry's Mod.
 
-At 16 I started An apprenticeship a Web Developer, and within less than a year I dropped out of that to work as a Full-stack Web Developer.
+At 16 I started an apprenticeship as Web Developer, and within less than a year I dropped out of that to work as a Full-stack Web Developer.
 
 I have a background in Javascript and PHP, using frameworks from Vue.js to Laravel. I don't do much backend development anymore, as I've moved my focus onto frontend.
 
@@ -24,7 +24,7 @@ JaxBot is a discord bot purpose-built for a gaming community I manage.
 
 It can record users, warnings given by staff, applications, and provide detailed logs on its actions. It’s powered by Node.js and uses AWS RDS for data storage.
 
-It also has a HTTPS server, with a signed SSL certificate, which is used as REST API for a work-in-progress web application that will be available to our users and staff (staff having options to make actions from the web app, rather than in discord).
+It also has a HTTPS server, with a signed SSL certificate, which is used as a REST API for a work-in-progress web application that will be available to our users and staff (staff having options to make actions from the web app, rather than in discord).
 
 You can find more info, and check him out yourself, [here](https://www.tophat-gaming.co.uk/jax).
 
